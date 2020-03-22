@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Welcome to Sauza</title>
+  <title>Welcome to Hornitos</title>
 
 
 <style>
@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Refreshigly real tequilas</h1>
+        <h1>Hornitos<sup>®</sup></h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>

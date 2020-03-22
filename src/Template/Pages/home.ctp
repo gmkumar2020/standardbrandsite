@@ -1,14 +1,10 @@
         <div class="row">
           <section class='col-xs-12 col-sm-6 col-md-6'>
             <section>
-              <h2>How to use this example application</h2>
-                <p>For instructions on how to use this application with OpenShift, start by reading the <a href="http://docs.okd.io/latest/dev_guide/templates.html#using-the-quickstart-templates">Developer Guide</a>.</p>
-
-              <h2>Deploying code changes</h2>
-                <p>
-                  The source code for this application is available to be forked from the <a href="https://www.github.com/sclorg/cakephp-ex">OpenShift GitHub repository</a>.
-                  You can configure a webhook in your repository to make OpenShift automatically start a build whenever you push your code:
-                </p>
+              <h2>100% pure agave tequila with a revolutionary spirit</h2>
+              <p>Hornitos® is a premium tequila born on Mexican Independence Day in 1950.  A 100% pure agave tequila, Hornitos continues to push boundaries for the betterment of its tequila and the tequila industry.  
+</p>
+               
 
 <ol>
   <li>From the Web Console homepage, navigate to your project</li>
