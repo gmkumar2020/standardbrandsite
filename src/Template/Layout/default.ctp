@@ -210,7 +210,7 @@ pre {
 <section class='container'>
 
         <hgroup>
-           <h1>Refreshngly real tequilas</h1>
+           <h1>Refreshigly real tequilas</h1>
         </hgroup>
 
         <?= $this->fetch('content') ?>
