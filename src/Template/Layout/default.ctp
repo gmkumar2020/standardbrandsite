@@ -216,8 +216,10 @@ pre {
         <?= $this->fetch('content') ?>
 
         <footer>
-          <div class="logo"><a href="https://www.openshift.com/"></a></div>
+          <h5>Powered by</h5>
+          <img src="https://www.parkar.consulting/wp-content/uploads/2018/01/2018website-logo1.png" alt="Parkar Logo" width="137" height="70">
         </footer>
+        
 </section>
 
 
