@@ -5,7 +5,7 @@
               <p>Hornitos® is a premium tequila born on Mexican Independence Day in 1950.  A 100% pure agave tequila, Hornitos continues to push boundaries for the betterment of its tequila and the tequila industry.  
 </p>
                
-
+ 
 
             </section>
 
@@ -14,8 +14,9 @@
 
                 <h2>Managing your application</h2>
 
+                <p>Documentation on how to manage your application from the Web Console or Command Line is available at the <a href="http://docs.okd.io/latest/dev_guide/overview.html">Developer Guide</a>.</p>
 
-
+                
 
                 <h2>Request information</h2>
                 <p>Page view count:
